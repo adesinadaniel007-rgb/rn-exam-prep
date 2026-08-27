@@ -1,0 +1,7 @@
+{
+  "name": "rn-exam-prep",
+  "private": true,
+  "dependencies": {
+    "firebase-admin": "^12.0.0"
+  }
+}
